@@ -4,7 +4,7 @@
  * print_diagonal - prints diagonol lines n times
  * @n: times diagonal lines is printed
  */
-void print_diagonal(int n )
+void print_diagonal(int n)
 {
 	int i, j;
 
