@@ -27,7 +27,7 @@ printf("Buzz");
 }
 if (n != 100)
 {
-print(" ");
+printf(" ");
 }
 }
 printf("\n");
