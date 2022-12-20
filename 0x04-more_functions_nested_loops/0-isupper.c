@@ -3,17 +3,14 @@
 
 /**
  * _isupper - checks if parameter is an uppercase character
- * @c: input character
+ * @x: input character
  * Return: 1 if c is  uppercase character, 0 in other case.
  */
-int _isupper(int c)
+int _isupper(int x)
 {
-if ((c >= 'A' && c <= 'z'))
+if ((x >= 65 && x <= 90))
 {
 return (1);
 }
-else
-{
 return (0);
-}
 }
